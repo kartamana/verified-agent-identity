@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'karta'
         required: true
-        default: 'uangdroid'
+        default: 'karta'
       agent_description:
         description: 'karta'
         required: true
